@@ -1,0 +1,6 @@
+# root path of handle server library 
+HSJ_DIR=/path/to/hsj/bin
+
+# directory of server instance
+SERVER_DIR=/path/to/handle/server/instance
+
